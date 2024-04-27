@@ -32,5 +32,3 @@ The time complexity of this algorithm is O(n), where n is the total number of no
 ## Space Complexity
 The space complexity is O(1) as we are not using any extra space except for a few pointers.
 ```
-
-Feel free to modify or expand upon this README according to your needs!
